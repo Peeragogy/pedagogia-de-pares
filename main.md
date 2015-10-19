@@ -142,7 +142,7 @@ A continuación presentamos la traducción de una entrevista realizada entre los
 
 *Charlotte*: Tenemos muy pocas confrontaciones. Sí me llego a molestar si alguien está siendo vago y no veo la aplicación de lo que están diciendo. Pero en general hay una voluntad y las personas se sienten bienvenidas.  
 
-*Julia*: Sí, esto se nota mucho Charlotte, a veces es preferible advertir al recién llegado (privadamente) que no está en el hilo de la conversación y se limite a observar por el momento, de esta[e][f][g][h] manera el resultado de la conversación sigue su línea preparada con anterioridad[i][j][k].
+*Julia*: Sí, esto se nota mucho Charlotte, a veces es preferible advertir al recién llegado (privadamente) que no está en el hilo de la conversación y se limite a observar por el momento, de esta manera el resultado de la conversación sigue su línea preparada con anterioridad.
 
 *Joe*: Estamos abiertos al diálogo, y al final aún cuando comenzamos a estar en desacuerdo, a menudo terminamos diciendo “sí, estoy de acuerdo.”
 
@@ -180,30 +180,22 @@ O escribir a: Pedagogía de Pares c/o Paola Ricaurte Tecnológico de Monterrey, 
 Tenemos un montón de oportunidades para contribuir en el proyecto. No se preocupe demasiado por protocolos o por tratar de ponerse al día. ¡Simplemente salte! :) Todos los contenidos del proyecto son de dominio público bajo una licencia Creative Commons Zero. Puede ver la licencia en línea en https://creativecommons.org/publicdomain/zero/1.0/.
          
 ________________
+
 [1] El proyecto de pedagogía de pares es el resultado de una producción colaborativa de muchas personas alrededor del mundo a lo largo de tres años y que se cristaliza en el Manual de Pedagogía de pares que ya se encuentra en su tercera versión (2015). Actualmente, entre los participantes están Howard Rheingold, Joe Corneli, Charles Danoff, Charlotte Peirce, Doug Breitbart, Paola Ricaurte, Amanda Lyons, Lisa Snow MacDonald, Dorotea Mar, Karen Beukema Einstein, Dilrukshi Gamage, Fabrizio Terzi, Julia Echeverría, Maria Droujkova, Laura Ritchie, sumados a muchas otras personas que han colaborado de alguna forma desde que inició el proyecto. La síntesis de materiales y la traducción (libre) que aquí se presenta es responsabilidad de Paola Ricaurte. Todas las ilustraciones son obra de Amanda Lyons. http://www.visualsforchange.com 
+
 [2] The Peeragogy Handbook. V. 3. 2015. https://github.com/Peeragogy/Peeragogy.github.io/blob/master/introduction.md
+
 [3] Ostrom E. (1990). Governing the commons: The evolution of institutions for collective action. Cambridge University Press.
+
 [4] Ricaurte, P. (2013). Pedagogía de pares. En Aranda, D., Creus,  A.  y Sánchez Navarro, J. (Eds.). Educación, medios digitales y cultura de la participación. Barcelona: UOC Press.
+
 [5] Ricaurte, P. (2013). Pedagogía de pares. Humanidades Digitales. http://humanidadesdigitales.net/blog/2013/02/25/pedagogia-de-pares/
+
 [6] Una revisión más detallada de los patrones se puede consultar en Corneli, J., Danoff, C., Pierce, C., Ricaurte, P. y L. MacDonald (2015). Patterns of Peeragogy http://metameso.org/~joe/docs/peeragogy_pattern_catalog.pdf 
+
 [7] Este caso fue presentado en parte como ponencia en Wikimanía 2015 en la Ciudad de México y también como parte del documento presentado en la 22ª Conferencia sobre Lenguaje de Patrones, PLoP'15, del 22 al 25 de octubre de 2015 en Pittsburgh, Pennsylvania.
+
 [8] A Peeragogy Interview (2015) realizada por el equipo del Proyecto de pedagogía de pares (en inglés). https://docs.google.com/document/d/1Lym8ZTnGdq0gMQidDJBK48v8lRSm85y_4XEaaYsrCyA/edit# 
 
 ***
 
-- El documento dice que está cerrado, siento tanto no haberlo visto antes, me habría gustado aportar alguna idea. Tengo muchas cosas que decir escribiendo que hablando, normalmente me inhibo sintiendo que estoy "metiendo la pata", gracias Joe por tu infinita paciencia.
-
-- No está cerrado, déjame ver. Lo subió Joe.
-
-- Mira si puedes editarlo. Según lo que yo veo, está abierto. Nadie mete la pata y todos los comentarios son bienvenidos. Y yo creo que hay un malentendido, los hangouts de los lunes son abiertos, se publica la liga en la comunidad para que cualquiera entre en vivo. No hay "invitación". El que puede y quiere, simplemente entra. Lo único que yo he visto en las sesiones que hemos coincidido, es que normalmente hay problemas técnicos con tu conexión y no se escucha bien o hay interferencia cuando hablas. Te mando un abrazo grande.
-[h]Muchísimas gracias Paola, debo decir que estos días estoy demasiado 
-cansada, voy a bajar el tren y me iré a meditar y practicar yoga a un 
-Ashram en el monte, seguro que regreso renovada. 
-Me encantó conocerte en MediaLab Madrid.
-Un abrazo
-
-- Pero Julia, no hay una "línea". En realidad el flujo de la conversación es libre.
-
-Es verdad, pero las frustraciones que se presentan deben ser notado y respondió a las.
-
-- Sí, absolutamente de acuerdo.
